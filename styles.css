@@ -1,2 +1,27 @@
+.first-row {
+		display: flex;	
+		align-items: center;
+		justify-content: space-around;
+	    gap: 10px;
+}
 
-/* Your CSS Code here. */
+.second-row {
+		display: flex;	
+		align-items: center;
+	    justify-content: space-around;
+	    gap: 10px;
+}
+
+.third-row {
+		display: flex;	
+		align-items: center;
+	    justify-content: space-around;
+	    gap: 10px;
+}
+
+.fourth-row {
+		display: flex;	
+		align-items: center;
+	    justify-content: space-around;
+	    gap: 10px;
+}
